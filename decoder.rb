@@ -7,7 +7,7 @@ KEY = {
 	6 => 'F',
 	7 => 'G',
 	8 => 'H',
-	9 => '*',
+	9 => 'I',
 	10 => 'J',
 }
 
@@ -24,3 +24,5 @@ def decode(numbers)
   # Return the decoded string.
   return text
 end
+
+# Fixed nils

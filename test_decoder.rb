@@ -5,4 +5,6 @@ class TestDecode < Minitest::Test
 	def test_dad
 		assert_equal("DAD", decode())
 	end
+	
+	More code added here
 end
